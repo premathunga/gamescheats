@@ -34,8 +34,110 @@
         }
       ]
     },
-    {
+        {
       "name": "Game 3",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+        {
+      "name": "Game 4",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+        {
+      "name": "Game 5",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+        {
+      "name": "Game 6",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+        {
+      "name": "Game 7",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+        {
+      "name": "Game 8",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+    {
+      "name": "Game 9",
       "cheatCodes": [
         {
           "code": "MNBVCX",
