@@ -1,0 +1,55 @@
+{
+  "games": [
+    {
+      "name": "Game 1",
+      "cheatCodes": [
+        {
+          "code": "ABCD123",
+          "description": "Unlock all levels"
+        },
+        {
+          "code": "XYZ987",
+          "description": "Infinite health"
+        },
+        {
+          "code": "1234EFG",
+          "description": "Unlimited ammo"
+        }
+      ]
+    },
+    {
+      "name": "Game 2",
+      "cheatCodes": [
+        {
+          "code": "QWERTY",
+          "description": "Double experience points"
+        },
+        {
+          "code": "ASDFG",
+          "description": "Unlock secret character"
+        },
+        {
+          "code": "ZXCVB",
+          "description": "Invincibility"
+        }
+      ]
+    },
+    {
+      "name": "Game 3",
+      "cheatCodes": [
+        {
+          "code": "MNBVCX",
+          "description": "Skip current level"
+        },
+        {
+          "code": "LKJHGF",
+          "description": "Unlimited resources"
+        },
+        {
+          "code": "POIUYT",
+          "description": "Instant victory"
+        }
+      ]
+    }
+  ]
+}
